@@ -21,6 +21,9 @@
 
 .product__price {
     margin-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .product__info {
@@ -35,3 +38,10 @@
     border-color: #a88734 #9c7e31 #846a29;
     color: black;
 }
+
+.product__rating{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
