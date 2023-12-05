@@ -8,10 +8,16 @@
 .Checkout__ad {
     width: 100%;
     margin-bottom: 10px;
+    /* position: sticky;
+    top: 80px;
+    z-index: 100; */
 }
 
 .Checkout__title{
     padding: 10px;
     margin-right: 10px;
     border-bottom: 1px solid lightgrey;
+    /* position: fixed; */
+    /* font-family: "Amazon Ember",Arial,sans-serif; */
 }
+

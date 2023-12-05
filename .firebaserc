@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "clone-c8178"
+  },
+  "targets": {
+    "clone-c8178": {
+      "hosting": {
+        "clone-backend-65144": [
+          "clone-c8178"
+        ],
+        "backend": [
+          "clone-backend-65144"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

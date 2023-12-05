@@ -2,7 +2,7 @@
     height: 60px;
     display: flex;
     align-items: center;
-    background-color: #131921;
+    background-color: #131820;
     position: sticky;
     top: 0;
     z-index: 100;
@@ -61,6 +61,11 @@
     color: white;
     display: flex;
     align-items: center;
+}
+
+.header__optionBasket>img{
+    width: 30px;
+    height: 30px;
 }
 
 .header__basketCount{
